@@ -1,5 +1,5 @@
 # 💫 About Me:
- About Me<br><br>🔭 I’m currently working on **TwinWalk** a 3D buidling mapping software  <br>🤝 I’m looking to collaborate on **cybersecurity, open-source, and systems projects**  <br>🫱 I’m looking for help with **low-level programming, system internals, and security research**  <br>🌱 I’m currently learning **C++, Data Structures & Algorithms, and cybersecurity**  <br>💬 Ask me about **CTFs, ethical hacking, Java, and my side projects**  <br>⚡ Fun fact: I enjoy photography as much as I enjoy debugging code.
+ About Me<br><br>🔭 I’m currently working on **TwinWalk** a 3D buidling mapping software  <br>I enjoy photography as much as I enjoy debugging code.
 
 
 ## 🌐 Socials:
